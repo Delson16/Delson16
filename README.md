@@ -1,54 +1,40 @@
 <img align="left" src= "https://github.com/Delson16/Delson16/assets/146981737/3eafe799-9066-4b03-91f4-8834c882b08f" widht="370px" height="420px"> 
 
-# Estou fazendo um curso de programação web no instituto de oportunidade social Full-stack
+# Olá, meu nome é Delson, estudante de programação Web full stack no IOS
 
 ### Tecnologias que estou aprendendo: 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![javas cript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 ### Econtre-me:
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+<a href="https://www.instagram.com/delsonpilar/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/delson-dubal-pilar-2132a32b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="malito:dubalpilardelson@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <div align="center"> 
 
   
  <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson16&layout=compact&theme=dark&hide_border=true" /></a> 
 
-
-
-
-
 </img>
 
 </div>
-
 <br> <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+## sobre mim:
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Entusiasta de desenvolvimento web full stack, em formação no IOS. Futuro engenheiro de software back-end. Habilidades em solução de problemas e oratória são meus pontos fortes.
 </p>
 
+## Objetivo:
 <p align="left">
- 
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
-</p>
-
-<p align="left">
-</p>
-
-  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
-
-
-<p align="left">
-  💌 Navegue à vontade pelo perfil.
+ Meu objetivo é me tornar um engenheiro de software especializado em back-end.
 </p>
 
 
