@@ -1,4 +1,4 @@
-<img align="left" src= "https://github.com/Delson16/Delson16/assets/146981737/3eafe799-9066-4b03-91f4-8834c882b08f" widht="370px" height="420px"> 
+<img align="left" src= "img/gato.png" widht="370px" height="420px"> 
 
 # Olá, meu nome é Delson, estudante de programação Web full stack no IOS
 
