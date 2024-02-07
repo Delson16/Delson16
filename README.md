@@ -27,12 +27,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## sobre mim:
+## SOBRE MIM:
 <p align="left"> 
 Entusiasta de desenvolvimento web full stack, em formação no IOS. Futuro engenheiro de software back-end. Habilidades em solução de problemas e oratória são meus pontos fortes.
 </p>
 
-## Objetivo:
+## MEU OBJETIVO:
 <p align="left">
  Meu objetivo é me tornar um engenheiro de software especializado em back-end.
 </p>
