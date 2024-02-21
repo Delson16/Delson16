@@ -1,6 +1,6 @@
 <img align="left" src= "img/gato.png" widht="370px" height="420px"> 
 
-# Olá, meu nome é Delson, estudante de programação Web full stack no IOS
+# Olá, meu nome é Delson, estudante de desenvolvimento Web full stack no IOS
 
 ### Tecnologias que estou aprendendo: 
 
