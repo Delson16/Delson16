@@ -1,6 +1,6 @@
-<img align="left" src= "img/gato.png" widht="370px" height="420px"> 
-
 # Olá, meu nome é Delson, estudante de desenvolvimento Web full stack no IOS
+
+<img align="left" src= "img/gato.png" widht="370px" height="420px"> 
 
 ### Tecnologias que estou aprendendo: 
 
@@ -18,21 +18,21 @@
 <div align="center"> 
 
   
- <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson16&layout=compact&theme=dark&hide_border=true" /></a> 
+ <a href="https://github.com/MarquinCss/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delson16&layout=compact&theme=dark&hide_border=true" /></a> 
 
 </img>
-
 </div>
-<br> <br>
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## SOBRE MIM:
+### SOBRE MIM:
 <p align="left"> 
 Entusiasta de desenvolvimento web full stack, em formação no IOS. Futuro engenheiro de software back-end. Habilidades em solução de problemas e oratória são meus pontos fortes.
 </p>
 
-## MEU OBJETIVO:
+### MEU OBJETIVO:
 <p align="left">
  Meu objetivo é me tornar um engenheiro de software especializado em back-end.
 </p>
